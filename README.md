@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1472-design-browser-history) |
 | [1672-richest-customer-wealth](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kanhiyachowhan575/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/kanhiyachowhan575/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Matrix
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kanhiyachowhan575/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/kanhiyachowhan575/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Simulation
 |  |
 | ------- |
@@ -170,10 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/kanhiyachowhan575/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/kanhiyachowhan575/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -182,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/kanhiyachowhan575/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/kanhiyachowhan575/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
