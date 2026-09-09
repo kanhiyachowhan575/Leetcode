@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0739-daily-temperatures](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0739-daily-temperatures) |
 | [0870-advantage-shuffle](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0870-advantage-shuffle) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Merge Sort
 |  |
@@ -153,9 +155,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kanhiyachowhan575/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/kanhiyachowhan575/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
