@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0217-contains-duplicate) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0217-contains-duplicate) |
 | [0870-advantage-shuffle](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0870-advantage-shuffle) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0075-sort-colors) |
 | [0870-advantage-shuffle](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0870-advantage-shuffle) |
 ## Greedy
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0179-largest-number) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
