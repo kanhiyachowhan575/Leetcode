@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0739-daily-temperatures](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0739-daily-temperatures) |
 | [0870-advantage-shuffle](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0870-advantage-shuffle) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1472-design-browser-history](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1472-design-browser-history) |
 | [1672-richest-customer-wealth](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Matrix
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0217-contains-duplicate) |
 | [0870-advantage-shuffle](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0870-advantage-shuffle) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Stack
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Merge Sort
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0179-largest-number) |
 | [0870-advantage-shuffle](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0870-advantage-shuffle) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Quicksort
 |  |
 | ------- |
