@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0242-valid-anagram) |
 ## Bubble Sort
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
