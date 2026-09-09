@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0242-valid-anagram) |
 | [0870-advantage-shuffle](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0870-advantage-shuffle) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Stack
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0242-valid-anagram) |
 ## Bubble Sort
 |  |
 | ------- |
