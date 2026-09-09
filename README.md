@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0217-contains-duplicate) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0739-daily-temperatures](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0739-daily-temperatures) |
 | [0870-advantage-shuffle](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0870-advantage-shuffle) |
 | [1472-design-browser-history](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1472-design-browser-history) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -92,4 +95,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0056-merge-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
