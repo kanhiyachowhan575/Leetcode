@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0739-daily-temperatures](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0739-daily-temperatures) |
 | [0870-advantage-shuffle](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0870-advantage-shuffle) |
+| [1122-relative-sort-array](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1122-relative-sort-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1472-design-browser-history](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1472-design-browser-history) |
 | [1672-richest-customer-wealth](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0242-valid-anagram) |
+| [1122-relative-sort-array](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1122-relative-sort-array) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0242-valid-anagram) |
 | [0870-advantage-shuffle](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0870-advantage-shuffle) |
+| [1122-relative-sort-array](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1122-relative-sort-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Stack
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1122-relative-sort-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,4 +144,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1122-relative-sort-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
