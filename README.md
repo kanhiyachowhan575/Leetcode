@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0070-climbing-stairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1925-count-square-sum-triples) |
 ## Array
@@ -189,9 +190,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0070-climbing-stairs) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/kanhiyachowhan575/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/kanhiyachowhan575/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
