@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0739-daily-temperatures](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0870-advantage-shuffle](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0870-advantage-shuffle) |
 | [1122-relative-sort-array](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1122-relative-sort-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/kanhiyachowhan575/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Prefix Sum
 |  |
