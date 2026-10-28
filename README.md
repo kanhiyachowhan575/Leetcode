@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0743-network-delay-time) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Merge Sort
 |  |
@@ -212,12 +213,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0200-number-of-islands) |
+| [0743-network-delay-time](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0200-number-of-islands) |
+| [0743-network-delay-time](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0743-network-delay-time) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
