@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -206,4 +208,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0509-fibonacci-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
