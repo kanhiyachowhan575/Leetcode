@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0870-advantage-shuffle](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0870-advantage-shuffle) |
+| [0994-rotting-oranges](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0994-rotting-oranges) |
 | [1122-relative-sort-array](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1122-relative-sort-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1472-design-browser-history](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1472-design-browser-history) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0200-number-of-islands) |
 | [0743-network-delay-time](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0994-rotting-oranges](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
