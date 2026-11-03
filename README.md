@@ -215,20 +215,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0200-number-of-islands) |
 | [0743-network-delay-time](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0200-number-of-islands) |
 | [0743-network-delay-time](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Shortest Path
 |  |
@@ -254,4 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/kanhiyachowhan575/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/kanhiyachowhan575/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
